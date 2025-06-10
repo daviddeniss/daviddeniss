@@ -1,14 +1,17 @@
-## Hello World! Eu sou o David Denis 👽👋
+##  👽 Hello World! Eu sou o David Denis 👽
 
-🎓 Sou estudante de Ciência da Computação 🎓
+### 🎓 Sou estudante de Ciência da Computação 🎓
 
 Atualmente, estou aprofundando meus conhecimentos em desenvolvimento de software, automação e interpretação de dados, aplicando boas práticas de código limpo e versionamento com Git.
 
 <div>
   <a href="https://github.com/daviddeniss">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daviddeniss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviddeniss&layout=compact&langs_count=16&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daviddeniss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviddeniss&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
+
+
+### 🤖 Linguagens e Tecnologias
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
