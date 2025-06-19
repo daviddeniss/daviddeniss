@@ -1,6 +1,6 @@
-##  👽 Hello World! Eu sou o David Denis 👽
+##  👽 Hello World! 👽
 
-### 🎓 Sou estudante de Ciência da Computação 🎓
+### 🎓 Estudante de Ciência da Computação 🎓
 
 Atualmente, estou aprofundando meus conhecimentos em desenvolvimento de software, automação e interpretação de dados, aplicando boas práticas de código limpo e versionamento com Git.
 
