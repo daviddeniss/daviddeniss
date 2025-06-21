@@ -4,13 +4,6 @@
 
 Atualmente, estou aprofundando meus conhecimentos em Desenvolvimento de Software (Full Stack), Ciência de Dados e Machine Learning, aplicando boas práticas de código limpo e versionamento com Git.
 
-<div>
-  <a href="https://github.com/daviddeniss">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daviddeniss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviddeniss&layout=compact&langs_count=16&theme=tokyonight"/>
-</div>
-
-
 ### 🤖 Linguagens e Tecnologias
 
 <div style="display: inline_block"><br>
