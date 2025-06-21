@@ -2,7 +2,7 @@
 
 ### 🎓 Estudante de Ciência da Computação 🎓
 
-Atualmente, estou aprofundando meus conhecimentos em desenvolvimento de software, automação e interpretação de dados, aplicando boas práticas de código limpo e versionamento com Git.
+Atualmente, estou aprofundando meus conhecimentos em Desenvolvimento de Software (Full Stack), Ciência de Dados e Machine Learning, aplicando boas práticas de código limpo e versionamento com Git.
 
 <div>
   <a href="https://github.com/daviddeniss">
